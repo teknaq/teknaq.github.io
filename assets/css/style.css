@@ -4068,8 +4068,8 @@ p {
 }
 
 .about-area .about-accordion .accordion .card .card-header a::before {
-  content: '\ea58';
-  font-family: 'LineIcons';
+  content: "\f078";
+  font-family: "Font Awesome 5 Free";
   position: absolute;
   top: 50%;
   right: 0;
@@ -4081,7 +4081,7 @@ p {
 }
 
 .about-area .about-accordion .accordion .card .card-header .collapsed::before {
-  content: '\ea5c';
+  content: "\f054";
 }
 
 .about-area .about-accordion .accordion .card .card-body {
@@ -4481,7 +4481,7 @@ p {
       19.CONTACT css 
 ===========================*/
 .contact-area {
-  padding-top: 120px;
+  padding-top: 80px;
   padding-bottom: 130px;
   background-color: #f4f6f7;
 }
