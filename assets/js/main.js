@@ -12,7 +12,7 @@ $(function () {
         $(this).html('support@teknaq.com');
     });
     $('.phone-js-write').each(function () {
-        $(this).html('+001 234-567-890');
+        $(this).html('+001 201-855-6526');
     });
 
 
