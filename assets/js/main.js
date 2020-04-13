@@ -25,10 +25,10 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/logo/teknaq-white.svg");
+            $(".navbar-area img").attr("src", "assets/images/logo/teknaq-BIG-white.svg");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/logo/teknaq-blue.svg");
+            $(".navbar-area img").attr("src", "assets/images/logo/teknaq-BIG-blue.svg");
         }
     });
 
