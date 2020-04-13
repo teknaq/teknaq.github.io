@@ -66,60 +66,6 @@ $(function () {
         $(".navbar-toggler").removeClass('active');
     });
 
-
-    //===== Sidebar
-
-    // $('[href="#side-menu-left"], .overlay-left').on('click', function (event) {
-    //     $('.sidebar-left, .overlay-left').addClass('open');
-    // });
-
-    // $('[href="#close"], .overlay-left').on('click', function (event) {
-    //     $('.sidebar-left, .overlay-left').removeClass('open');
-    // });
-
-
-    //===== Slick
-
-    // $('.slider-items-active').slick({
-    //     infinite: true,
-    //     slidesToShow: 3,
-    //     slidesToScroll: 1,
-    //     speed: 800,
-    //     arrows: false,
-    //     prevArrow: '<span class="prev"><i class="lni lni-arrow-left"></i></span>',
-    //     nextArrow: '<span class="next"><i class="lni lni-arrow-right"></i></span>',
-    //     dots: false,
-    //     autoplay: false,
-    //     autoplaySpeed: 5000,
-    //     responsive: [{
-    //             breakpoint: 1200,
-    //             settings: {
-    //                 slidesToShow: 3,
-    //             }
-    //         },
-    //         {
-    //             breakpoint: 992,
-    //             settings: {
-    //                 slidesToShow: 2,
-    //             }
-    //         },
-    //         {
-    //             breakpoint: 768,
-    //             settings: {
-    //                 slidesToShow: 2,
-    //             }
-    //         },
-    //         {
-    //             breakpoint: 576,
-    //             settings: {
-    //                 slidesToShow: 1,
-    //                 arrows: false,
-    //             }
-    //         }
-    //     ]
-    // });
-
-
     //===== Isotope Project 4
 
     $('.container').imagesLoaded(function () {
