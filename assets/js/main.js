@@ -12,10 +12,10 @@ $(function () {
         $(this).html('support@teknaq.com');
     });
     $('.phone1-js-write').each(function () {
-        $(this).html('+001 512-221-5570');
+        $(this).html('+1 512-221-5570');
     });
     $('.phone2-js-write').each(function () {
-        $(this).html('+001 201-855-6526');
+        $(this).html('+1 201-855-6526');
     });
 
 
